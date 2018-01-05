@@ -1,2 +1,4 @@
 print("Hello world");
 println("Hello ")
+print("Hello Merdan");
+print("Hello Merdan");
